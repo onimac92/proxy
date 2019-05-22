@@ -1,3 +1,7 @@
+<a href="https://heroku.com/deploy?template=https://github.com/onimac92/proxy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 html2canvas-proxy
 =================
 
